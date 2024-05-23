@@ -1,5 +1,10 @@
 # Curso Google Data Analytics - Estudo de caso 01
 
+## Para acessar o projeto [clique aqui](https://colab.research.google.com/drive/18fsYdbTGvU6PEde0qVFOqX4GhiKNsRcz?usp=sharing)
+
+<br>
+<br>
+
  # Projeto Medição de Desempenho dos Alunos em avaliações.
 
 # Essas avaliações são de:
